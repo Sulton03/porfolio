@@ -32,7 +32,7 @@ export default function Resume() {
             years of study 2021-2025
             </time>
             <p class="mb-4 text-base font-normal  text-gray-400">
-            "I'm a third-year student at the Faculty of Mathematics and Intelligent Technologies, 
+            "I'm a 4-year student at the Faculty of Mathematics and Intelligent Technologies, 
             specializing in Computer Science and Programming Technologies
             </p>
             <a
